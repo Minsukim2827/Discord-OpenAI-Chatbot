@@ -11,6 +11,9 @@ This is a Discord bot named WALLE that uses OpenAI's GPT-3 model to generate res
 - Clears the bot's message history.
 - Counts the words in the previous message.
 
+![image](https://github.com/Minsukim2827/Discord-OpenAI-Chatbot/assets/122320786/711dcf94-e808-4dca-9b79-c2e65fca8e11)
+
+
 ## Commands
 
 - `/walle [prompt]`: Get a response based on your prompt.
